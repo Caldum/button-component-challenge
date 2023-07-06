@@ -3,6 +3,7 @@ import styled from 'styled-components'
 export const FooterComponent = styled.footer`
     display: flex;
     flex-direction: column;
+    gap: 1rem;
 `
 
 export const IconsSource = styled.span`
